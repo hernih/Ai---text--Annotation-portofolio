@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Hernih
-
+AI Data Annotation | NLP | Quality Control
 ## AI Text Annotation Portfolio
 
 Welcome to my AI Text Annotation Portfolio.
@@ -36,3 +36,9 @@ This repository contains my annotation practice and portfolio for Natural Langua
 ---
 
 Thank you for visiting my portfolio.
+## 📫 Contact
+
+Email: hernihnurhaenih81@gmail.com
+
+GitHub:
+github.com/hernih/Ai-Text-Annotation-Portofolio
