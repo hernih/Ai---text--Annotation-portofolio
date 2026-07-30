@@ -1,2 +1,38 @@
-# Ai-text-Annotation-portofolio
-Portofolio of Ai Text Annotation Project including Sentiment Analysis, Intent Classification, Category Classification, and Name Entity Recognition (NER) 
+# 👋 Hi, I'm Hernih
+
+## AI Text Annotation Portfolio
+
+Welcome to my AI Text Annotation Portfolio.
+
+This repository contains my annotation practice and portfolio for Natural Language Processing (NLP) tasks.
+
+## Skills
+
+- Sentiment Analysis
+- Intent Classification
+- Category Classification
+- Named Entity Recognition (NER)
+
+## Experience
+
+**Quality Control**
+- PT Lotus Lingga Pratama
+
+**Quality Control**
+- PT Asatorindo Agung
+
+## Projects
+
+- Customer Support Text Annotation
+- Sentiment Analysis
+- Named Entity Recognition (NER)
+- Intent Classification
+- Category Classification
+
+## Portfolio Progress
+
+✅ Completed 300 AI Text Annotation Practice
+
+---
+
+Thank you for visiting my portfolio.
