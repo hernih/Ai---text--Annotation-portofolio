@@ -2,7 +2,7 @@
 
 | No | Customer Text | Category | Reason |
 |----|---------------|----------|--------|
-| 1 | My refund hasn't arrived yet. | Billing | Customer is asking about a refund/payment issue. |
+| 1 | My refund hasn't arrived yet. | payment| Customer is asking about a refund/payment issue.|
 | 2 | I forgot my account password. | Account | Customer has an account access problem. |
 | 3 | The application crashes every time I open it. | Technical Issue | Customer reports a technical problem. |
 | 4 | When will my package be delivered? | Shipping | Customer asks about delivery status. |
