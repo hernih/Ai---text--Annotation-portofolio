@@ -34,6 +34,12 @@ This repository contains my annotation practice and portfolio for Natural Langua
 ✅ Completed 300 AI Text Annotation Practice
 
 ---
+## 📂 Sample Projects
+
+- 📄 [Sample Sentiment Analysis](sample-sentiment-analysis.md)
+- 📄 [Sample Intent Classification](sample-intent-classification.md)
+- 📄 [Sample Category Classification](sample-category-classification.md)
+- 📄 [Sample Named Entity Recognition (NER)](sample-ner.md)
 
 Thank you for visiting my portfolio.
 ## 📫 Contact
