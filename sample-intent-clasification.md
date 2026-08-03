@@ -1,3 +1,5 @@
+# sample intent classification
+
 | no | customer text | intent | reason |
 |----| ------------- | ------ | ------ |
 |1|I want to replace my damaged laptop|product replacement|customer requests a replacement product.| 
